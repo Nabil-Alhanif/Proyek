@@ -1,5 +1,8 @@
 Act 1:
-Konsep:
+
+Konsep: Pengenalan mekanisme permainan
+Deskripsi: Pemain akan dikenalkan dengan mekanisme dasar seperti berjalan, berinteraksi dengan objek, dan menggunakan kendaraan.
+
 Act 1 Opening:
 
 Cutscene 1:

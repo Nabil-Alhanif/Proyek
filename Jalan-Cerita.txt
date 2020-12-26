@@ -1,13 +1,75 @@
+Legend:
+Km = Karakter utama;
+Ks = Karakter sampingan;
+kakek = kakeknya km;
+
 Act 1:
+	Act 1 Opening (Komik) :
+		- Km sedang mengobrol dengan kakeknya
+		- Telpon rumah berdering
+		- Km bilang ke kakek dia mau ngangkat telpon
+		- Rupanya yang menelpon ks dan ks mengajak km untuk pergi piknik
+		- Km pergi ke garasi buat ngambil sepeda
+		
+	Chapter 1:
+		Konsep: Pengenalan mekanisme permainan
+		Deskripsi: Pemain akan dikenalkan dengan mekanisme dasar seperti berjalan, berinteraksi dengan objek, dan menggunakan kendaraan.
+		Storyline: Km naik sepeda menuju taman untuk piknik dengan ks, sesampainya di taman, ks meminta km mencari beberapa hal, seperti kayu bakar dll untuk keperluan piknik. Setelah km mendapatkan semua hal yang diminta ks, km kembali ke tempat ks, rupanya si ks sedang di culik alien.
+		Lokasi:
+			- Garasi rumah km (Scene 1)
+			- Jalan di perumahan km (Scene 2)
+			- Taman (Scene 3)
+		
+		Scene 1:
+			Lokasi: Garasi rumah km
+			Objek di garasi:
+				- Sepeda
+				- beberapa barang di meja
+				- tombol buat ngebuka pintu garasi
+				
+			Story:
+				Pas si km masuk garasi, si kakek teriak "Km, kakek pergi dulu ya, semua pintu kakek kunci kecuali pintu garasi."
+				
+			Rule:
+				- Pintu penghubung antara rumah dan garasi terkunci
+				- Apabila km mencoba membuka pintu, maka dia akan berkata "Pintunya terkunci karena kakek sedang pergi."
+				- Tidak bisa keluar dari garasi kecuali setelah membuka pintu garasi dengan menekan tombol
+				- Setelah pintu terbuka, km dapat pergi keluar dari rumahnya menuju daerah di sekitar perumahannya
+				- Apabila km keluar dari rumahnya, maka pintu akan tetap terbuka dan km memasuki scene 2
+				
+			Objektif:
+				1. Belajar gerakan dasar:
+					- w: Maju
+					- A: Kiri
+					- S: Mundur
+					- D: Kanan
+					- Spasi: Lompat
+					- C: Crouch
+					
+				2. Interact:
+					Benda normal:
+						- Klik kiri
+						
+						Objek untuk interaksi:
+							- Barang barang di meja
+							- Tombol untuk ngebuka pintu garasi
+							
+					Kendaraan:
+						- E: Mount and dismount
+						
+						Objek untuk interaksi:
+							- Sepeda
+						
+				3. Membuka pintu garasi:
+					- interact dengan tombol di samping pintu garasi untuk ngebuka pintunya
+					
+				4. Keluar dari garasi
 
-Konsep: Pengenalan mekanisme permainan
-Deskripsi: Pemain akan dikenalkan dengan mekanisme dasar seperti berjalan, berinteraksi dengan objek, dan menggunakan kendaraan.
+		Scene 2:
+			Lokasi: Perumahan
+			
+	Chapter 2:
 
-Act 1 Opening:
-
-Cutscene 1:
-
-Act 1 Ending:
-
-
+	Act 1 Ending:
+	
 Act 2:
